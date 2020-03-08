@@ -1,7 +1,7 @@
 /**
  * 
  */
-package ejemplo;
+package ejemplo; //cambio 
 
 /**
  * @author andre
